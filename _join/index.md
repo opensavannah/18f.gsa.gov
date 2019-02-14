@@ -22,18 +22,30 @@ We’re a remote-first team with offices in DC, New York, Chicago, and San Franc
 If you have any questions, please contact our Talent Team at [jointts@gsa.gov](mailto:jointts@gsa.gov).
 
 ## Open positions
+
 Links below will take you to the Technology Transformation Services join page to apply.
 
-**We currently have no open positions at 18F.**
+<section class="usa-grid-full">
+  <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/join/cloud-operations-sre/">Cloud Operations Site Reliability Engineer</a>
+</section>
 
-<!-- Links below will take you to the Technology Transformation Services join page to apply. -->
+<section class="usa-grid-full">
+  <a class="usa-button usa-button-secondary" href="https://join.tts.gsa.gov/join/product-manager/">Product Manager</a>
+</section>
 
+<!--**We currently have no open positions at 18F.**-->
+
+<!--Links below will take you to the Technology Transformation Services join page to apply.-->
+<!--**We currently have no open positions at 18F.**-->
 <!--
 TEMPLATE:
 <section class="usa-grid-full">
   <a class="usa-button usa-button-secondary" href="LINK">JOB TITLE</a>
 </section>
+
 -->
+
+Head over to the [TTS Join website](https://join.tts.gsa.gov/) to see all open and upcoming 18F and TTS positions.
 
 ## How to apply
 
@@ -104,7 +116,7 @@ employee](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration
 The annual salary cap for all GS employees is \$164,200 per year. You
 cannot be offered more than this under any circumstance. Use this [OPM
 General Schedule (GS) Salary
-Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2017/general-schedule-gs-salary-calculator/)
+Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2018/general-schedule-gs-salary-calculator/)
 to help you understand how GS level, step, and locality affect
 compensation.
 

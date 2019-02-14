@@ -17,7 +17,7 @@ subnav_items:
     permalink: /contact/
 ---
 
-18F is an office within the [General Services Administration](https://www.gsa.gov/) (GSA) that collaborates with other agencies to fix technical problems, build products, and improve how government serves the public through technology. 18F is part of the Technology Transformation Services, which is within the Federal Acquisition Service.
+18F is an office of federal employees within the [General Services Administration](https://www.gsa.gov/) (GSA) that collaborates with other agencies to fix technical problems, build products, and improve how government serves the public through technology. 18F is part of the Technology Transformation Services, which is within the Federal Acquisition Service.
 
 -----
 
@@ -31,7 +31,7 @@ We develop partnerships with agencies to help them deliver exceptional digital e
 
 ## Our team
 
-We are a team of about 200 designers, software engineers, strategists, and product managers — all federal employees. We have offices in DC, San Francisco, Chicago, and New York, as well as team members working remotely from all over the country.
+We are a team of about 120 designers, software engineers, strategists, and product managers — all federal employees. We have offices in DC, San Francisco, Chicago, and New York, as well as team members working remotely from all over the country.
 
 Want to get to know our team a little better? These blog posts feature the voices of people from across 18F:
 
@@ -48,7 +48,9 @@ We've also published [profiles of individuals]({{ site.baseurl }}/tags/staff-pro
 
 In March 2014, a group of [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/) started 18F to extend their efforts to improve and modernize government technology.
 
-In 2016, 18F became part of the [Technology Transformation Services](https://www.gsa.gov/tts) (TTS), which also includes the Presidential Innovation Fellows program, the Office of Acquisitions, and the [Office of Products and Programs](https://www.gsa.gov/portal/content/124174). Like GSA's other services (the Federal Acquisition Service and the Public Building Service), TTS provides tools, services, and resources to help other agencies serve the public.
+In 2016, 18F became part of the [Technology Transformation Services](https://www.gsa.gov/tts) (TTS), which also includes the Presidential Innovation Fellows program, the Office of Acquisitions, the [Office of Products and Programs](https://www.gsa.gov/portal/content/124174), and the [IT Modernization Centers of Excellence](https://coe.gsa.gov/). 
+
+In 2017, TTS became part of GSA's existing [Federal Acqusition Service](https://www.gsa.gov/about-us/organization/federal-acquisition-service).
 
 **What does 18F mean?**
 
